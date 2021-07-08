@@ -1,0 +1,12 @@
+﻿.navbar-inverse {
+    background-color: azure;
+    border-color: yellowgreen;
+}
+
+    .navbar-inverse .navbar-nav > li > a {
+        color: wheat;
+    }
+
+    .navbar-inverse .navbar-brand {
+        color: wheat;
+    }
